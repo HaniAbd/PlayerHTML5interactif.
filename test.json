@@ -1,0 +1,52 @@
+{
+	"name" : "test",
+	"framerate" : 25,
+	"width" : 320,
+	"height" : 176,
+	"samples" : [
+		{
+			"action" : "clic",
+			"framenumber" : 10,
+			"coordinates" : [
+				{
+					"x" : 10,
+					"y" : 10
+				},
+				{
+					"x" : 310,
+					"y" : 166
+				},
+				{
+					"x" : 10,
+					"y" : 166
+				},
+				{
+					"x" : 310,
+					"y" : 10
+				}
+			]
+		},
+		{
+			"action" : "draw",
+			"framenumber" : 170,
+			"coordinates" : [
+				{
+					"x" : 10,
+					"y" : 10
+				},
+				{
+					"x" : 310,
+					"y" : 10
+				},
+				{
+					"x" : 310,
+					"y" : 166
+				},
+				{
+					"x" : 10,
+					"y" : 166
+				}
+			]
+		}
+	]
+}
