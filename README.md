@@ -1,7 +1,7 @@
 # PlayerHTML5interactif.
 Une page Web responsive comportant un Player (HTML5) interactif.
 
-# Données de référence :
+### Données de référence :
   * Vidéo de test : test.mp4
   * Fichier données : test.json
 
